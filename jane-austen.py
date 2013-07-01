@@ -1,12 +1,12 @@
 ladies = [
         {'name' : 'Emma Woodhouse', 
-        'eyes' : 'blue',
+        'eyes' : 'green',
         'hair' : 'blonde',
         'wealth' : 'much',
         'novel' : 'Emma'
         },
         {'name' : 'Fanny Price',
-        'eyes' : 'green',
+        'eyes' : 'blue',
         'hair' : 'brown',
         'wealth' : 'little',
         'novel' : 'Mansfield Park'
@@ -18,7 +18,7 @@ ladies = [
         'novel' : 'Pride and Prejudice'
         },
         {'name' : 'Anne Elliot',
-        'eyes' : 'blue',
+        'eyes' : 'green',
         'hair' : 'brown',
         'wealth' : 'some',
         'novel' : 'Persuasion'
@@ -30,7 +30,7 @@ ladies = [
         'novel' : 'Sense and Sensibility'
         },
         {'name' : 'Elinor Dashwood',
-        'eyes' : 'green',
+        'eyes' : 'brown',
         'hair' : 'blonde',
         'wealth' : 'little',
         'novel' : 'Sense and Sensibility'
